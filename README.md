@@ -1,4 +1,5 @@
 # CSP-Midterm-Week-6
+## By Avinh Huynh, Akhil Nandhakumar and Rebecca Su
 
 This is a Jekyll Page :joy:
 This is used to store 🏪 the README in a static ⚡ page 📝
