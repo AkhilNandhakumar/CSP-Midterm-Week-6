@@ -19,4 +19,4 @@ It stored information in an object ⚽ oriented data structure 🏢
 11. [Code Sequence, Procedures/Functions, Procedural Abstraction](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Code-Sequence,-Procedures-Functions,-Procedural-Abstraction)
 12. [OOP, Class, Attribute, Method, Object](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/OOP,-Class,-Attribute,-Method,-Object)
 13. [CRUD](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/CRUD)
-14. Sort, Search-Linear/Binary
+14. [Sort, Search-Linear/Binary](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Sort,-Search-Linear-Binary)
