@@ -6,7 +6,7 @@ This is used to store 🏪 the README in a static ⚡ page 📝
 It can also use config.yml to create collections 📦 (lists 📜)
 It stored information in an object ⚽ oriented data structure 🏢
 
-1. Binary/Hexadecimal, Bit, Nibble, Byte
+1. [Binary/Hexadecimal, Bit, Nibble, Byte](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Binary-Hexadecimal,-Bit,-Nibble,-Byte)
 2. Data, Data Abstraction
 3. [Lossless/Lossy Compression](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Lossless-Lossy-Compression)
 4. [Metadata](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Metadata)
