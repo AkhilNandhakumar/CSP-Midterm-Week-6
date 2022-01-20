@@ -7,7 +7,7 @@ It can also use config.yml to create collections 📦 (lists 📜)
 It stored information in an object ⚽ oriented data structure 🏢
 
 1. [Binary/Hexadecimal, Bit, Nibble, Byte](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Binary-Hexadecimal,-Bit,-Nibble,-Byte)
-2. Data, Data Abstraction
+2. [Data, Data Abstraction](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Data,-Data-Abstraction)
 3. [Lossless/Lossy Compression](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Lossless-Lossy-Compression)
 4. [Metadata](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Metadata)
 5. [Computer Network, Parallel/Distributed Computing](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Computer-Network,-Parallel-Distributed-Computing)
