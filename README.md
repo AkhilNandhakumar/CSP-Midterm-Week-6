@@ -10,7 +10,7 @@ It stored information in an object ⚽ oriented data structure 🏢
 2. Data, Data Abstraction
 3. [Lossless/Lossy Compression](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Lossless-Lossy-Compression)
 4. [Metadata](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Metadata)
-5. Computer Network, Parallel/Distributed computing
+5. [Computer Network, Parallel/Distributed Computing](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Computer-Network,-Parallel-Distributed-Computing)
 6. Protocol, TCP/IP, HTTP, GET, POST
 7. Library, Dependencies, Import
 8. Web API, REST, FETCH, Async, Request, Response
