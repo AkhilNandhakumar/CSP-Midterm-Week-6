@@ -16,7 +16,7 @@ It stored information in an object ⚽ oriented data structure 🏢
 8. Web API, REST, FETCH, Async, Request, Response
 9. [Blueprints](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Blueprints)
 10. [MVC](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/MVC)
-11. Code Sequence, Procedures/Functions, Procedural Abstraction
+11. [Code Sequence, Procedures/Functions, Procedural Abstraction](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/Code-Sequence,-Procedures-Functions,-Procedural-Abstraction)
 12. [OOP, Class, Attribute, Method, Object](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/OOP,-Class,-Attribute,-Method,-Object)
 13. [CRUD](https://github.com/AkhilNandhakumar/CSP-Midterm-Week-6/wiki/CRUD)
 14. Sort, Search-Linear/Binary
